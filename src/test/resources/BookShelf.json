@@ -1,0 +1,16 @@
+{
+	"booksInTheStore": [
+		{
+			"title": "MyBook",
+			"author": "AV",
+			"price": 50,
+			"year": 1987
+		},
+		{
+			"title": "Head First Java",
+			"author": "Kathy Sierra",
+			"price": 50,
+			"year": 2003
+		}
+	]
+}
